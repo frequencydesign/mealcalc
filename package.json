@@ -1,0 +1,16 @@
+{
+  "name": "mealcalc",
+  "version": "1.0.0",
+  "description": "a meal cost calculator",
+  "main": "mealcalc.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "meal",
+    "calculator",
+    "food"
+  ],
+  "author": "Mahdi Tehrani",
+  "license": "ISC"
+}
