@@ -16,11 +16,7 @@ Dinner.prototype.calculateTotalAmount = function() {
 
     });
 
-    this.totalAmount = total;
-};
-
-Dinner.prototype.computeAmount = function(base, percentage) {
-    return base * percentage;
+    return this.totalAmount = total;
 };
 
 module.exports = Dinner;
